@@ -18,8 +18,8 @@
 8.Выводим полученный список на экран
 
 ### Тестирование
-
-Скриншоты результата работы программы
+<img width="1113" height="628" alt="lab2_1_1" src="https://github.com/user-attachments/assets/388a8083-c4ca-4489-b346-64a439368bba" />
+<img width="1110" height="625" alt="lab2_1_2" src="https://github.com/user-attachments/assets/1e3ac612-0961-41ef-8cc9-95f5e29a8369" />
 
 ## Задача 2
 
@@ -39,6 +39,8 @@
 8.Выводим результат на экран
 
 ### Тестирование
+<img width="1104" height="612" alt="lab2_2_1" src="https://github.com/user-attachments/assets/52200750-abad-45d0-9825-f491c09fb85c" />
+<img width="1106" height="618" alt="lab2_2_2" src="https://github.com/user-attachments/assets/217da89d-6214-4083-823b-8a01e332301d" />
+<img width="1102" height="593" alt="lab2_2_3" src="https://github.com/user-attachments/assets/f1dbea26-9cf2-4d1c-a389-09e3331902b7" />
 
-Скриншоты результата работы программы
 
